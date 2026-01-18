@@ -34,6 +34,8 @@
     top: 0px;
     height: 100%;
     word-wrap: break-word;
+    overflow-x: auto;
+    scrollbar-width: thin;
 
 }
 
